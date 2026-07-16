@@ -6,3 +6,9 @@ step 3. choose mode on home screen
 step 4. just know you can use this anywhere as long as you are connected to the internet and using a windows computer
 
 Also, Yes you can use this at school
+
+Each filter functions.
+UDP - (user datagram protocol) used for stun packages, (video calls) etc.
+TCP - (Transmission control protocol) File downloading, websites as ip address's, & web browsing. etc.
+TLS - (transport layer securtity) Encrypts data so others cant see it.
+STUN - (basically just UDP)
