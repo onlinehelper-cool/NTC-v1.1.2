@@ -1,0 +1,8 @@
+(DISCLAIMER: the stun packet capture doesnt work now, i will try to get it to work)
+
+step 1. keep program, this program will not harm your system, make sure to check code before downloading
+step 2. run the program in administrator mode, it will crash if not
+step 3. choose mode on home screen
+step 4. just know you can use this anywhere as long as you are connected to the internet and using a windows computer
+
+Also, Yes you can use this at school
