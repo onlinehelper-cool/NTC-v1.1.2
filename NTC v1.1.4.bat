@@ -47,7 +47,7 @@ cls
 pktmon stop
 pktmon filter remove
 cls
-pktnom filter add -t UDP -p 3478
+pktnom filter add -p 3478
 pktmon start --etw -m real-time
 
 :e
